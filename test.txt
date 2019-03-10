@@ -1,2 +1,7 @@
 test Git and GitHub 
+<<<<<<< HEAD
 create a new branch is quick but the internet speed is too slow
+=======
+crate a new branch dev 
+>>>>>>> dev
+but just is error and try again!
