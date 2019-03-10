@@ -1,1 +1,2 @@
 test Git and GitHub 
+create a new branch is quick but the internet speed is too slow
