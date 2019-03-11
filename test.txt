@@ -6,3 +6,4 @@ crate a new branch dev
 >>>>>>> dev
 but just is error and try again!
 try add new branch a
+want to write something
